@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a student.
 - 🌱 I’m currently learning ML and AI and is very fond of Data Science.
-- 💬 Ask me about ML and AI.
+- 💬 Ask me about AI and ML in Data Science.
 - 📫 How to reach me: ritvikashekhar1210@gmail.com
 - ⚡ Fun fact: I know to play musical instruments.
 -->
